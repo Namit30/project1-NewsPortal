@@ -9,7 +9,7 @@
       "date": "January 28, 2022",
       "time": "12:00",
       "organizer": "Kat Laydee",
-      <img src="https://www.tutorialrepublic.com/lib/images/javascript-illustration.png" alt="welcome" height="200" class="center"/>
+      "image": "<img src="https://www.tutorialrepublic.com/lib/images/javascript-illustration.png" alt="welcome" height="200" class="center"/>"
     },
     {
       "id": 456,
