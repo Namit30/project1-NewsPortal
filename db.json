@@ -8,7 +8,14 @@
       "location": "Meow Town",
       "date": "January 28, 2022",
       "time": "12:00",
-      "organizer": "Kat Laydee"
+      "organizer": "Kat Laydee",
+               json_data = '{"icon_url": "https://www.tutorialspoint.com/images/logo.png"}';
+         json_data = JSON.parse(json_data);
+         var getimage = document.createElement("img");
+         getimage.onload = function() {
+            document.getElementById("tutorial").appendChild(getimage);
+         }
+         getimage.src = json_data.icon_url;
     },
     {
       "id": 456,
