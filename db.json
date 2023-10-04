@@ -2,13 +2,13 @@
   "events": [
     {
       "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
+      "category": "ONGC welfare",
+      "title": "ONGC inks MoU with NTPC Green Energy Limited for Development of Renewable Energy Projects",
+      "description": "Oil and Natural Gas Corporation (ONGC) inked Memorandum of Understanding (MoU) with NTPC Green Energy Limited (NGEL) to realize its Renewable energy objectives towards energy transition on 27 September 2023. The MoU will primarily explore the feasibility and setting up of Renewable Energy Projects in various domains.",
+      "location": "Delhi",
+      "date": "September 27, 2023",
       "time": "12:00",
-      "organizer": "Kat Laydee"
+      "organizer": "ONGC Executive Director Debdulal Adhikari (left) and CEO (NGEL) Mohit Bhargava"
     },
     {
       "id": 456,
