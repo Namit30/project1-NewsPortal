@@ -84,3 +84,7 @@ Contributions are welcome! If you have suggestions or find issues, please open a
 For any questions or feedback, feel free to reach out:
 
 Email: namit752@gmail.com
+
+<p align="center">
+    Made with ❤️ by <a href="https://github.com/Namit30">Namit Mehrotra</a>
+</p>
